@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "ea671e7913707166",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a241225c0908f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef192619fa80f896",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-excalidraw-plugin/styles.css",
+                "bFile": ".obsidian/plugins/obsidian-excalidraw-plugin/styles.css",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: styles.css"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c05a12a802a13af9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b9f4df5470c6cda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0871234f570b7ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "16e3284044e6d649",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "98050aad279add38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "9e74996fc49f0053",
+    "type": "split",
+    "children": [
+      {
+        "id": "258d4ea932cce218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1632afedede1af83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resource/CS/Algorithms/LectureFile/L14.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "L14 의 백링크"
+            }
+          },
+          {
+            "id": "7bd740e54b1d5c89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resource/CS/Algorithms/LectureFile/L14.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "L14 의 나가는 링크"
+            }
+          },
+          {
+            "id": "40d740f009914975",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "1a9382fa5c16515e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resource/CS/Algorithms/LectureFile/L14.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "L14 의 개요"
+            }
+          },
+          {
+            "id": "460677e82391a06d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "1f54be0898c6bb93",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "fb64130aaa2bee52",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 494.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ef192619fa80f896",
+  "lastOpenFiles": [
+    "StoryNotes/애자일 프로세스의 필요성.md",
+    "StoryNotes/갈등 경험.md",
+    "WeeklyNote/2025년 7월 3주차 보고.md",
+    "DailyNotes/갈등 경험.md",
+    "DailyNotes/애자일 프로세스 경험.md",
+    "StoryNotes",
+    "WeeklyNotes/2025년 7월 3주차 보고.md",
+    "WeeklyNotes",
+    "StudyNotes/00.TechStack/k8s/Readme.md",
+    "StudyNotes/00.TechStack/k8s/02.Workloads.md",
+    "StudyNotes/00.TechStack/k8s/04.Ingress.md",
+    "StudyNotes/00.TechStack/k8s/03.Service.md",
+    "StudyNotes/00.TechStack/k8s/01.Basic.md",
+    "StudyNotes/00.TechStack/k8s/00.Architecture.md",
+    "StudyNotes/00.TechStack/k8s",
+    "StudyNotes/00.TechStack",
+    "StudyNotes",
+    "DailyNotes",
+    "무제",
+    "StudyNote/00.TechStack/k8s/01.Basic.md",
+    "StudyNote/00.TechStack/k8s/00.Architecture.md",
+    "StudyNote/00.TechStack/k8s/Readme.md",
+    "StudyNote/00.TechStack/k8s/02.Workloads.md",
+    "02. Index/000 - Main Index.md",
+    "자기소개서 작성법 - 2. 기업 분석.md",
+    "자기소개서 작성법 - 1. 경험정리.md",
+    "무제 1.md",
+    "자기소개서 작성법 - 3. 지원 동기.md",
+    "03. Resource/00. Tech Reference/Architecture/비동기 경계.md",
+    "03. Resource/00. Tech Reference/CS Concepts/Computer Network/OSI 7 Layer/README.md",
+    "03. Resource/00. Tech Reference/CS Concepts/Computer Network/TLS Session Context.md",
+    "03. Resource/00. Tech Reference/CS Concepts/Computer Network/TCP Header.md",
+    "03. Resource/00. Tech Reference/CS Concepts/Computer Network/OSI 7 Layer/04. Transport Layer.md",
+    "03. Resource/00. Tech Reference/CS Concepts/Computer Network/OSI 7 Layer",
+    "03. Resource/00. Tech Reference/CS Concepts/Computer Network/OSI 7 Layer",
+    "03. Resource/00. Tech Reference/CS Concepts/Computer Network",
+    "99. Media/Pasted image 20250702142646.png",
+    "99. Media/Pasted image 20250702142528.png",
+    "99. Media/Pasted image 20250702142343.png",
+    "99. Media/Pasted image 20250629170116.png",
+    "06. Inbox/CS/Programming Design/Compositre Service.png",
+    "99. Media/Pasted image 20241218224240.png",
+    "99. Media/Pasted image 20241218223933.png",
+    "99. Media/Pasted image 20241218220313.png",
+    "99. Media/Pasted image 20241218220135.png",
+    "99. Media/Pasted image 20241218214334.png",
+    "무제.canvas",
+    "Resource/CS/Backend/00. Java와 Backend.canvas",
+    "Archive/2024학년1학기/컴퓨터 네트워크 1/src/5. Router/5. Router.canvas",
+    "Archive/2024학년1학기/컴퓨터 네트워크/src/5. Router/5. Router.canvas",
+    "Archive/2024학년1학기/컴퓨터 네트워크/src/4. VLAN/4. VLAN 구성.canvas",
+    "Archive/2024학년1학기/컴퓨터 네트워크/src/4. VLAN/4. VLAN.canvas",
+    "Archive/2024학년1학기/컴퓨터 네트워크/src/4. VLAN/4. 스위치 구성.canvas"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaArrowFlights",
+      "RaDinosaur",
+      "SiLg",
+      "FasDatabase",
+      "FasServer"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Todo": {
+    "iconName": "LiListTodo",
+    "iconColor": "#ffffff"
+  },
+  "Area": "⛰",
+  "Excalidraw": {
+    "iconName": "SiExcalidraw",
+    "iconColor": "#ffffff"
+  },
+  "Resource/CS/DB": {
+    "iconName": "FasDatabase",
+    "iconColor": "#ffdd00"
+  },
+  "Resource/SSAFY": "SiSamsung",
+  "Resource/Web": {
+    "iconName": "SiSpyderide",
+    "iconColor": "#ffffff"
+  },
+  "Resource/기타 지식": "🧠",
+  "Resource/CS": {
+    "iconName": "FasComputer",
+    "iconColor": "#ffffff"
+  },
+  "Resource/API KEY.md": "🔑",
+  "Resource/CS/Algorithms": {
+    "iconName": "SiThealgorithms",
+    "iconColor": "#ffffff"
+  },
+  "Resource/CS/Backend": {
+    "iconName": "FasServer",
+    "iconColor": "#ffffff"
+  },
+  "Resource/취업 준비/자소서/NAVER": {
+    "iconName": "SiNaver",
+    "iconColor": "#00ff1e"
+  },
+  "Resource/취업 준비/자소서/LG CNS": {
+    "iconName": "SiLg",
+    "iconColor": "#ff0000"
+  },
+  "Resource/CS/Operating System": "RaDinosaur",
+  "Project": {
+    "iconName": "RaArrowFlights",
+    "iconColor": "#ffffff"
+  }
+}
